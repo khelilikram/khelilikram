@@ -28,9 +28,9 @@
 
 ### 📊 GitHub Stats
 
-![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=khelilikram&show_icons=true&theme=tokyonight)
+![Ikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=khelilikram&show_icons=true&theme=tokyonight&count_private=true&hide=contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khelilikram&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khelilikram&layout=compact&theme=tokyonight&langs_count=6)
 
 ---
 
