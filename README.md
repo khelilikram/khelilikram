@@ -14,14 +14,19 @@
 
 ### 👩‍💻 About Me
 
-```
-🎓  Engineering Student in Computer Science @ ENSTA Bordj El Kiffan
-💻  Backend Developer & UI/UX Designer
-🚀  Built TrustMyDegree — diploma verification platform
-🌱  Currently deepening my backend & web skills
-📍  Lakhdaria, Bouira, Algeria
-⚡  Fun fact: I design the UI before I write a single line of code!
-```
+<div align="center">
+
+| | |
+|---|---|
+| 🎓 | Engineering Student in Computer Science @ **ENSTA** Bordj El Kiffan |
+| 💻 | Backend Developer & UI/UX Designer |
+| 🚀 | Built **TrustMyDegree** — university diploma verification platform |
+| 🛠️ | Working with **Node.js · Express · MySQL · Prisma · Figma** |
+| 🌱 | Currently deepening my skills in backend & web development |
+| 🌍 | Based in **Lakhdaria, Bouira, Algeria** |
+| ⚡ | Fun fact: I design the UI **before** writing a single line of code! |
+
+</div>
 
 ---
 
@@ -46,15 +51,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khelilikram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelilikram&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-
-</div>
 
 ---
 
