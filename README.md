@@ -68,16 +68,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/khelilikram/khelilikram/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ⭐️ From [khelilikram](https://github.com/khelilikram) with ❤️
